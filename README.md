@@ -12,7 +12,7 @@ Dataset Summary
 •	🟢 Active Employees: 7,984
 •	🔴 Employees Left: 966
 
-Workforce Overview
+## Workforce Overview
 Out of 8,950 employees:
 •	89.2% employees are still active
 •	Workforce is distributed across multiple departments and job roles
