@@ -16,4 +16,8 @@ Workforce Overview
 Out of 8,950 employees:
 •	89.2% employees are still active
 •	Workforce is distributed across multiple departments and job roles
+## Image 
+
+# 📌 Insight:
+The company maintains a strong workforce base, but attrition still exists and needs attention.
 
