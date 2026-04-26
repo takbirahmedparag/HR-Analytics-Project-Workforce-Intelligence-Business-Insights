@@ -57,9 +57,99 @@ ________________________________________
 •	📉 2021 lowest hiring (422) → major decline (external/internal impact)
 •	📈 2023 recovery (1207 hires) → strong rebound
 
-## Image
-
 #📌 Insight:
 Hiring trend shows unstable growth, indicating inconsistent workforce planning.
+
+##  Attrition Analysis (Critical Business Risk)
+•	🔴 Employees Left: 966
+•	🟢 Active Employees: 7,984
+
+# 📊 Attrition Rate
+👉 Approx: 10.8% employees left the company
+
+## 🏢 Attrition by Department
+Department	        Attrition %
+Marketing	          90.25%
+Sales	              89.05%
+Customer Service	  89%
+HR	                88.37%
+Finance	            86.06%
+
+# 📌 Insight:
+High attrition across departments →
+➡️ Employee retention is a major challenge
+
+## Attrition by Gender
+•	👨 Male: 89.38% active
+•	👩 Female: 89.07% active
+
+# 📌 Insight:
+Attrition is almost equal across gender →
+➡️ No major gender bias, but overall retention issue exists
+
+##  Salary & Performance Analysis
+•	⭐ Average Performance Rating: 3 (Satisfactory)
+
+# 📌 Insight:
+Most employees perform at an average level
+➡️ Indicates lack of high-performance culture
+
+## Department Performance
+•	Majority departments show average performance (Rating ≈ 3)
+
+#📌 Insight:
+➡️ Company lacks strong performance differentiation
+
+##  Age & Workforce Distribution
+•	Employees segmented by age groups
+•	Majority fall within mid-age working group (20–40)
+
+## 📌 Insight:
+Balanced workforce, but future planning needed for senior roles
+
+##  Tenure Analysis
+•	Employees analyzed based on years in company
+•	Long-tenure employees show better stability
+
+#📌 Insight:
+➡️ Higher tenure = higher loyalty
+
+##  Advanced Business Insights
+🔹 Best Performing Group
+
+👉 Sales + Bachelor Degree employees show strong performance
+
+ ## Key Observations
+✔ High salary ≠ High performance
+✔ Average performance dominates workforce
+✔ Certain departments face higher attrition
+✔ Workforce growth is inconsistent
+
+## Business Impact
+This analysis reveals:
+•	⚠️ Retention problem across departments
+•	📉 Performance stagnation
+•	📊 Unstable hiring trends
+•	💡 Opportunity to optimize workforce strategy
+
+## Analytical Approach
+Data → Cleaning → Exploration → KPI → Analysis → Insights → Decision Making
+
+## Conclusion
+This project demonstrates how HR data can be transformed into powerful business insights that directly impact:
+•	Employee retention
+•	Workforce planning
+•	Organizational performance
+
+
+
+
+
+
+
+
+
+
+
 
 
